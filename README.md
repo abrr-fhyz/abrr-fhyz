@@ -20,7 +20,7 @@ I'm an undergraduate student at the **University of Dhaka**, studying **Computer
   
 ## 📫 Get in Touch:
 - Email: [fahyaz.abrar@gmail.com](fahyaz.abrar@gmail.com)
-- LinkedIn: [Abrar Fahyaz](https://www.linkedin.com/abrar-fahyaz/)
+- LinkedIn: [Abrar Fahyaz](https://www.linkedin.com/in/abrar-fahyaz/)
 
 Feel free to explore my repositories and collaborate on exciting projects!
 
