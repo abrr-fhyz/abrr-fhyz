@@ -2,6 +2,9 @@
 
 I'm an undergraduate student at the **University of Dhaka**, studying **Computer Science and Engineering**. My primary interest lies in **linguistics-based models**, where I explore the intersection of **natural language processing (NLP)** and **machine learning**.
 
+![Profile Views](https://komarev.com/ghpvc/?username=abrr-fhyz&color=blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrr-fhyz&layout=compact&theme=radical)
+
 ## 🔍 Interests:
 - Machine Learning
 - Natural Language Processing (NLP)
