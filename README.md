@@ -4,6 +4,8 @@ I'm an undergraduate student at the **University of Dhaka**, studying **Computer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrr-fhyz&layout=compact&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=abrr-fhyz&color=blue)
+
 ## 🔍 Interests:
 - Machine Learning
 - Natural Language Processing (NLP)
@@ -25,5 +27,3 @@ I'm an undergraduate student at the **University of Dhaka**, studying **Computer
 Feel free to explore my repositories and collaborate on exciting projects!
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=abrr-fhyz&color=blue)
