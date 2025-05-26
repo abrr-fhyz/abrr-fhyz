@@ -15,10 +15,12 @@ I'm an undergraduate student at the **University of Dhaka**, studying **Computer
 - App Development
 
 ## 🚀 Projects:
-- **[ShN Code Editor]**: A lightweight text editor developed using the Qt framework in C/C++, designed for simplicity and ease of use. It has several features including, but not limited to, in-built compiliation capabilities, in-editor file explorer, and language specific highlighting.
-- **[ShareTune]**: A custom music player developed from scratch using Java and JavaFX. The program is capable of streaming music to other devices using an in-built server mode.
-- **[War Simulator]**: A map editor designed to depict modern conventional warfare, developed using Java and JavaFX. The application includes a comprehensive account of the 1971 Bangladesh Liberation War including all referenced sources.
+- **[ShN Code Editor]**: A lightweight text editor developed using the Qt framework in C/C++.
+- **[ShareTune]**: A custom music player developed from scratch using Java and JavaFX.
+- **[War Simulator]**: A map editor designed to depict modern conventional warfare, developed using Java and JavaFX.
 - **[DU_fthrlss_bpds bot]**: A simple bot created using Vue.js that can perform the functions of chatGPT, and can be connected to another server if the need arises.
+- **[PlinyTheElder]**: An AI-powered (Gemini) tutoring platform built on multi-agent architecture principles.
+- **[N_Avram]**:  NLP pipeline achieving state-of-the-art performance in Text based Sentiment Analysis.
   
 ## 📫 Get in Touch:
 - Email: [fahyaz.abrar@gmail.com](fahyaz.abrar@gmail.com)
