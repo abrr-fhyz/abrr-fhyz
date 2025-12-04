@@ -2,8 +2,6 @@
 
 I'm an undergraduate student at the **University of Dhaka**, studying **Computer Science and Engineering**. My primary interest lies in **linguistics-based models**, where I explore the intersection of **natural language processing (NLP)** and **machine learning**.
 
-[![Fahyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrr-fhyz)](https://github.com/abrr-fhyz/github-readme-stats)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=abrr-fhyz&color=blue)
 
 ## 🔍 Interests:
