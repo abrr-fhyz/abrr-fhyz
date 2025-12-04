@@ -2,7 +2,7 @@
 
 I'm an undergraduate student at the **University of Dhaka**, studying **Computer Science and Engineering**. My primary interest lies in **linguistics-based models**, where I explore the intersection of **natural language processing (NLP)** and **machine learning**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrr-fhyz&layout=compact&theme=radical)
+[![Fahyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrr-fhyz)](https://github.com/abrr-fhyz/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abrr-fhyz&color=blue)
 
@@ -21,6 +21,8 @@ I'm an undergraduate student at the **University of Dhaka**, studying **Computer
 - **[DU_fthrlss_bpds bot]**: A simple bot created using Vue.js that can perform the functions of chatGPT, and can be connected to another server if the need arises.
 - **[PlinyTheElder]**: An AI-powered (Gemini) tutoring platform built on multi-agent architecture principles.
 - **[N_Avram]**:  NLP pipeline achieving state-of-the-art performance in Text based Sentiment Analysis.
+- **[Neuroplastic Neural Network]**: Brain Inspired Fully Connected Neural Network Prototype
+- **[Gravity Simulator]**: N-body gravitational simulation physics engine
   
 ## 📫 Get in Touch:
 - Email: [fahyaz.abrar@gmail.com](fahyaz.abrar@gmail.com)
