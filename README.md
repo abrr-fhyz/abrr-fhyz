@@ -1,6 +1,6 @@
 # Hello, I'm Abrar Fahyaz 👋
 
-I'm an undergraduate student at the **University of Dhaka**, studying **Computer Science and Engineering**. My primary interest lies in **linguistics-based models**, where I explore the intersection of **natural language processing (NLP)** and **machine learning**.
+I'm an undergraduate student at the **University of Dhaka**, studying **Computer Science and Engineering**. One of my primary interests lies in **linguistics-based models**, exploring the intersection of **natural language processing (NLP)** and **machine learning**. I am also particularly interested in **Neuromorphic computing**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abrr-fhyz&color=blue)
 
