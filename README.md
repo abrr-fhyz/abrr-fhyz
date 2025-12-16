@@ -4,14 +4,6 @@ I'm an undergraduate student at the **University of Dhaka**, studying **Computer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abrr-fhyz&color=blue)
 
-## 🔍 Interests:
-- Machine Learning
-- Natural Language Processing (NLP)
-- Model FineTuning
-- Computational Linguistics
-- Artificial Intelligence
-- App Development
-
 ## 🚀 Projects:
 - **[ShN Code Editor]**: A lightweight text editor developed using the Qt framework in C/C++.
 - **[ShareTune]**: A custom music player developed from scratch using Java and JavaFX.
