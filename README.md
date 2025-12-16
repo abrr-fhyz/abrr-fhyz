@@ -21,6 +21,7 @@ I'm an undergraduate student at the **University of Dhaka**, studying **Computer
 - **[N_Avram]**:  NLP pipeline achieving state-of-the-art performance in Text based Sentiment Analysis.
 - **[Neuroplastic Neural Network]**: Brain Inspired Fully Connected Neural Network Prototype
 - **[Gravity Simulator]**: N-body gravitational simulation physics engine
+- **[Spiking Neural Network]**: SNN meant to simulate the neural connectome of C.elegans
   
 ## 📫 Get in Touch:
 - Email: [fahyaz.abrar@gmail.com](fahyaz.abrar@gmail.com)
