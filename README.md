@@ -3,7 +3,7 @@
 I'm an undergraduate student at the **University of Dhaka**, studying **Computer Science and Engineering**. My primary interests lies in **linguistics-based models**, exploring **natural language processing (NLP)** and **machine learning**. I am also particularly interested in **Neuromorphic computing** and building brain inspired systems from the ground up.
 I am proficient in Python, but will always have a soft spot in my heart for C/C++. I think Java is beautiful, like a law giver that brings order through structure. JavaScript and its brethren, however, are the avatars of chaos. Rust is great, but I'm still learning. What was the point of writing all this? I don't know man, most people will just assume this is LLM generated anyway.
 
-[![Abrar's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=abrr-fhyz)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abrr-fhyz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abrr-fhyz&color=blue)
 
